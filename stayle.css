@@ -493,3 +493,11 @@
     margin-left: 800px;
     margin-top: -300px;
 }
+.box33{
+    display: flex;
+    justify-content: space-around;
+}
+.box35{
+    display: flex;
+    flex-direction: column;
+}
