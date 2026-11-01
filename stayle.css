@@ -167,6 +167,11 @@
     border: 0;
     color: white;
 }
+.button3:hover{
+    cursor: pointer;
+    transition: all 0.0s;
+    background: #d23732;
+}
 .box10 {
     max-width: 1200px;
     width: 100%;
@@ -494,10 +499,113 @@
     margin-top: -300px;
 }
 .box33{
+    width: 100%;
+    height: 600px;
+    background-color: #F4F5F6;
+}
+.box34 {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 800px;
+    align-items: center;
+    width: 100%;
+    margin-top: 100px;
 }
 .box35{
+    margin-top: 100px;
+}
+.box36 {
     display: flex;
-    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    margin-top: 100px;
+}
+.text32{
+    color: #1E212C;
+    font-family: sans-serif;
+}
+.text33{
+    color: #1E212C;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+.fa-circle-arrow-right{
+    color: #FF3F3A;
+}
+.box37{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+.box38{
+    width: 245px;
+    height: 240px;
+    background-color: #FFCF2D;
+}
+.box39{
+    width: 245px;
+    height: 240px;
+    background-color: #FFCF2D;
+}
+.box40{
+    width: 245px;
+    height: 240px;
+    background-color: #FFCF2D;
+}
+.box41{
+    width: 245px;
+    height: 240px;
+    background-color: #FFCF2D;
+}
+.img6{
+    width: 165px;
+    height: 190px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.text34{
+    margin-top: 30px;
+    font-size: 17px;
+    margin-left: 60px;
+    color: #424551;
+}
+.text35{
+    margin-left: 60px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.text36{
+    margin-top: 30px;
+    font-size: 25px;
+    margin-left: 60px;
+    color: #424551;
+}
+.text37{
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.text38{
+    margin-top: 30px;
+    font-size: 25px;
+    margin-left: 30px;
+    color: #424551;
+}
+.text39{
+    width: 300px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+.text40{
+    margin-top: 30px;
+    width: 400px;
+    font-size: 25px;
+    margin-left: 30px;
+    color: #424551;
+}
+.text41{
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: 5px;
 }
