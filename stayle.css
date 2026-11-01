@@ -856,6 +856,9 @@
     height: 58px;
     background-color: #292C37;
 }
+.fa-arrow-right{
+    color: white;
+}
 .box58{
     display: flex;
     justify-content: center;
